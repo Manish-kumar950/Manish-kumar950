@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 This is my first Git Repository.
-<br>
 Author- manish kumar rana
-
+<br>
